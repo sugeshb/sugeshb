@@ -53,4 +53,4 @@ Seeking opportunities in:
 
 ## 📫 Contact
 
-LinkedIn: ([Add your link here](https://www.linkedin.com/in/sugeshbalasubramanian/))
+LinkedIn: ([[Add your link here](https://www.linkedin.com/in/sugeshbalasubramanian/](https://www.linkedin.com/in/sugeshbalasubramanian/)))
