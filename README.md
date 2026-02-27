@@ -50,7 +50,3 @@ Seeking opportunities in:
 - Junior Data Engineer
 
 ---
-
-## 📫 Contact
-
-LinkedIn: ([[Add your link here](https://www.linkedin.com/in/sugeshbalasubramanian/](https://www.linkedin.com/in/sugeshbalasubramanian/)))
